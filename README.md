@@ -10,7 +10,7 @@ RTI draft when an issue is ignored.
 Built for the **Vibe2Ship** hackathon (Coding Ninjas × Google for Developers),
 problem statement *Community Hero — Hyperlocal Problem Solver*.
 
-- **Live demo (GCP / Cloud Run):** _add your deployed URL here_
+- **Live demo (GCP / Cloud Run):** https://civicsetu-237298549065.asia-south1.run.app
 - **Stack:** React + TypeScript + Vite, Tailwind CSS v4, Gemini 2.0, Leaflet, Recharts
 
 ---
